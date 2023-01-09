@@ -1,0 +1,24 @@
+[
+	{	
+		"name":"Vinay",
+		"gender":"male",
+		"number":7758899477,
+		"boolen":true,
+		"sub":[{"lan1":"English"},
+			{"lan2":"Hindi"},
+			{"lan3":"Telugu"}
+		]
+	
+	},
+	{	
+		"name":"Sravan",
+		"gender":"male",
+		"number":995876321,
+		"boolen":true,
+		"sub":[{"lan1":"Telugu"},
+				{"lan2":"English"},
+				{"lan3":"Hindi"}
+			]
+		
+	}
+]
